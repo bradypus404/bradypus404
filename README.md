@@ -1,5 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=ractheight=400&text=Hello%20World!&desc=Hello%20capsule%20render)-->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=1&height=150&section=header&text=Hi%20I\'m%20foliv0ra&desc=Let\'s%20analyze%20Malware%20together\!&descAlign=60&descAlignY=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi%20I\'m%20foliv0ra&desc=Let\'s%20analyze%20Malware%20together\!&descAlign=60&descAlignY=90)
 
 <!--
 **bradypus404/bradypus404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
