@@ -2,6 +2,7 @@
 
 
 Hi Guys, I am a researcher who finds excitement and curiosity in engaging research and exploration related to malware detection and analysis. Delving deep into the world of **malware**☠, I take pleasure in understanding the intricacies and constantly learning to prepare and respond to the potential threats that exist in the real world. I am passionate about strengthening security and strive to discover and create innovative solutions. <br>
+
 Welcome to my profile! I am thrilled to have you here. Let's share our knowledge about malware and work together to create innovative solutions to combat them.😎
 
 Thank you.
