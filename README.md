@@ -5,7 +5,7 @@
 
 ⚒   **Skills**   ⚒
 ------
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"&exclude_repo=bradypus404.github.io/></a>
 
 
 **Most Used Languages**
