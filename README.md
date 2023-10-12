@@ -14,8 +14,8 @@ Most Used Languages
 
 Project Career
 ------
-| Project                           | Length of Time    | Organization             | Position                |
-|---------------------------------- |-------------------|--------------------------|-------------------------|
+| Project                     | Length of Time    | Organization             | Position                |
+|---------------------------- |-------------------|--------------------------|-------------------------|
 | MalTotal-Search                   | 2023-10 ~ current | MalOpenCode-LLM          | Researcher              |
 | BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
 | Post Malware Analysis Blog        | 2022 ~ current    | Slow Analysis            | Researcher              |
