@@ -14,13 +14,14 @@
 
 **Project Career**
 ------
+<center>
 | Project                           | Length of Time    | Organization             | Position                |
 |-----------------------------------|-------------------|--------------------------|-------------------------|
 | MalTotal-Search                   | 2023-10 ~ current | MalOpenCode-LLM          | Researcher              |
 | BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
 | Malware Symbolic Execution        | 2023-03 ~ current | SSL (Hanyang Univ.)      | Master's Course         |
-| Post Malware Analysis Blog        | <center>2022 ~ current</center>  | Slow Analysis            | Researcher              |
-| 2022 CodeCure CTF                 | %20%20%20 2022-12 | CodeCure                 | CTF Organizer           |
+| Post Malware Analysis Blog        | 2022 ~ current    | Slow Analysis            | Researcher              |
+| 2022 CodeCure CTF                 | 2022-12           | CodeCure                 | CTF Organizer           |
 | BC-IDS                            | 2022-03 ~ 2022-07 | Defender                 | Blockchain Developer    |
 | Malware Detection using LSTM      | 2022-01 ~ 2022-06 | Sangmyung Univ.          | Undergraduate Researcher|
 | Malware Classification using LSTM | 2021-09 ~ 2021-12 | Vunter (Sangmyung Univ.) | Project Leader          |
@@ -29,7 +30,7 @@
 | K-Cyber Security Challenge        | 2020-03 ~ 2020-10 | 0x1719 (Sangmyung Univ.) | Developer               |
 | Deception Security for Applying<br>Moving Target Defense | 2020-01 ~ 2020-11 | Sangmyung Univ. | Undergraduate Researcher |
 | Presentation of AI Fuzzing        | 2019-11 ~ 2019-12 | CodeCure                 | PPT Maker               |
-
+</center>
 
 **My Sincerity**
 ------
