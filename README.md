@@ -4,8 +4,6 @@
 
 ***Hi Guys!***
 
-<br>
-
 I am a **Researcher**👨‍🎓  and **analyst**🕵️‍♂️  who is passionate about conducting engaging research and exploration focused on the detection and analysis of malware.<br>
 
 Delving deep into the world of **malware**☠, I take pleasure in understanding the intricacies and constantly learning to prepare and respond to the potential threats that exist in the real world. I am passionate about strengthening security and strive to discover and create innovative solutions. <br>
