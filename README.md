@@ -20,7 +20,7 @@
 | BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
 | Malware Symbolic Execution        | 2023-03 ~ current | SSL (Hanyang Univ.)      | Master's Course         |
 | Post Malware Analysis Blog        | 2022 ~ current    | Slow Analysis            | Researcher              |
-| 2022 CodeCure CTF                 | 2022-12-19 ~ 12-21| CodeCure                 | CTF Organizer           |
+| 2022 CodeCure CTF                 | 2022-12.19 ~ 12.21| CodeCure                 | CTF Organizer           |
 | BC-IDS                            | 2022-03 ~ 2022-07 | Defender                 | Blockchain Developer    |
 | Malware Detection using LSTM      | 2022-01 ~ 2022-06 | Sangmyung Univ.          | Undergraduate Researcher|
 | Malware Classification using LSTM | 2021-09 ~ 2021-12 | Vunter (Sangmyung Univ.) | Project Leader          |
