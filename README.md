@@ -14,10 +14,11 @@ Most Used Languages
 
 Career
 ------
-Project  |  Length of Time  |
-------------- | ------------- | 
-MalOpenCode  | 2023-10 ~  |  
-Brust-of-Nature  | 2023-06 ~  |
+Project  |  Length of Time  | Organization
+------------- | ------------- | ------------
+MalTotal-Search  | 2023-10 ~ Current |  MalOpenCode-LLM
+BoN - Loki Malware  | 2023-06 ~ current |  Brust-of-Nature
+
 
 
 My Stats
