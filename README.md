@@ -10,7 +10,9 @@ Delving deep into the world of **malware**☠, I take pleasure in understanding 
 Welcome to my profile! I am thrilled to have you here. Let's share our knowledge about malware and work together to create innovative solutions to combat them.😎
 
 Thank you.
+
 <br>
+
 ⚒   **Skills**   ⚒
 ------
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-blue?style=flat-square&logo=IDA%20Pro&logoColor=white)
@@ -20,7 +22,7 @@ Thank you.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust&logoColor=#E57324)
 
-<br><br>
+<br>
 
 **Most Used Languages**
 ------
