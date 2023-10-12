@@ -12,12 +12,10 @@
 ------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradypus404&layout=compact)](https://github.com/bradypus404/github-readme-stats)
 
-<center>
-
 **Project Career**
 ------
 | Project                           | Length of Time    | Organization             | Position                |
-|-----------------------------------|-------------------|--------------------------|-------------------------|
+|:---------------------------------:|:-----------------:|:------------------------:|:-----------------------:|
 | MalTotal-Search                   | 2023-10 ~ current | MalOpenCode-LLM          | Researcher              |
 | BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
 | Malware Symbolic Execution        | 2023-03 ~ current | SSL (Hanyang Univ.)      | Master's Course         |
@@ -31,8 +29,7 @@
 | K-Cyber Security Challenge        | 2020-03 ~ 2020-10 | 0x1719 (Sangmyung Univ.) | Developer               |
 | Deception Security for Applying<br>Moving Target Defense | 2020-01 ~ 2020-11 | Sangmyung Univ. | Undergraduate Researcher |
 | Presentation of AI Fuzzing        | 2019-11 ~ 2019-12 | CodeCure                 | PPT Maker               |
-  
-</center>
+
 
 **My Sincerity**
 ------
