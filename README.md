@@ -16,7 +16,7 @@ Career
 ------
 Project  |  Length of Time  | Organization
 ------------- | ------------- | ------------
-MalTotal-Search  | 2023-10 ~ Current |  MalOpenCode-LLM
+MalTotal-Search  | 2023-10 ~ current |  MalOpenCode-LLM
 BoN - Loki Malware  | 2023-06 ~ current |  Brust-of-Nature
 
 
