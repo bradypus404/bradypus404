@@ -8,11 +8,11 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
-Most Used Languages
+**Most Used Languages**
 ------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradypus404&layout=compact)](https://github.com/bradypus404/github-readme-stats)
 
-Project Career
+**Project Career**
 ------
 | Project                           | Length of Time    | Organization             | Position                |
 |-----------------------------------|-------------------|--------------------------|-------------------------|
@@ -30,6 +30,6 @@ Project Career
 | Presentation of AI Fuzzing        | 2019-11 ~ 2019-12 | CodeCure                 | PPT Maker               |
 
 
-My Stats
+**My Sincerity**
 ------
 ![bradypus404's github stats](https://github-readme-stats.vercel.app/api?username=bradypus404&show_icons=true&theme=radical)
