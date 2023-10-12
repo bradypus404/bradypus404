@@ -11,7 +11,13 @@ Thank you.
 
 ⚒   **Skills**   ⚒
 ------
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-blue?style=flat-square&logo=IDA%20Pro&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-red?style=flat-square)
+![Server Development (Windows, Linux)](https://img.shields.io/badge/Server_Development_(Windows,_Linux)-blueviolet?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust&logoColor=#E57324)
+
 
 
 **Most Used Languages**
