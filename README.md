@@ -5,12 +5,12 @@
 
 ⚒   **Skills**   ⚒
 ------
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"&exclude_repo=bradypus404.github.io/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
 **Most Used Languages**
 ------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradypus404&layout=compact)](https://github.com/bradypus404/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradypus404&layout=compact&exclude_repo=bradypus404.github.io)](https://github.com/bradypus404/github-readme-stats)
 
 **Project Career**
 ------
