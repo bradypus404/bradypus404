@@ -19,12 +19,13 @@ Thank you.
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust&logoColor=#E57324)
-
+<br>
 
 
 **Most Used Languages**
 ------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradypus404&layout=donut&exclude_repo=bradypus404.github.io&)](https://github.com/bradypus404/github-readme-stats)
+<br>
 
 **Project Career**
 ------
@@ -43,7 +44,7 @@ Thank you.
 | K-Cyber Security Challenge        | 2020-03 ~ 2020-10 | 0x1719 (Sangmyung Univ.) | Developer               |
 | Deception Security for Applying<br>Moving Target Defense | 2020-01 ~ 2020-11 | Sangmyung Univ. | Undergraduate Researcher |
 | Presentation of AI Fuzzing        | 2019-11 ~ 2019-12 | CodeCure                 | PPT Maker               |
-
+<br>
 
 **My Sincerity**
 ------
