@@ -19,7 +19,7 @@
 | MalTotal-Search                   | 2023-10 ~ current | MalOpenCode-LLM          | Researcher              |
 | BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
 | Malware Symbolic Execution        | 2023-03 ~ current | SSL (Hanyang Univ.)      | Master's Course         |
-| Post Malware Analysis Blog        | %20%20 2022 ~ current  | Slow Analysis            | Researcher              |
+| Post Malware Analysis Blog        | <center>2022 ~ current</center>  | Slow Analysis            | Researcher              |
 | 2022 CodeCure CTF                 | %20%20%20 2022-12 | CodeCure                 | CTF Organizer           |
 | BC-IDS                            | 2022-03 ~ 2022-07 | Defender                 | Blockchain Developer    |
 | Malware Detection using LSTM      | 2022-01 ~ 2022-06 | Sangmyung Univ.          | Undergraduate Researcher|
