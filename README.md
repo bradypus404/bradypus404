@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi%20I\'m%20foliv0ra&fontColor=8904B1&desc=Let\'s%20analyze%20Malware%20together\!&descAlign=60&descAlignY=90)
 
 
-Hi Guys, I am a **Researcher**👨‍🎓  and **analyst**🕵️‍♂️  who is passionate about conducting engaging research and exploration focused on the detection and analysis of malware.<br>
+Hi Guys!<br>
+I am a **Researcher**👨‍🎓  and **analyst**🕵️‍♂️  who is passionate about conducting engaging research and exploration focused on the detection and analysis of malware.<br>
 
 Delving deep into the world of **malware**☠, I take pleasure in understanding the intricacies and constantly learning to prepare and respond to the potential threats that exist in the real world. I am passionate about strengthening security and strive to discover and create innovative solutions. <br>
 
