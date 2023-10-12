@@ -18,7 +18,8 @@ Project  |  Length of Time  | Organization
 ------------- | ------------- | ------------
 MalTotal-Search  | 2023-10 ~ current |  MalOpenCode-LLM
 BoN - Loki Malware  | 2023-06 ~ current |  Brust-of-Nature
-
+Post Malware Analysis Blog  | 2022 ~ current  |  Slow Analysis
+Malware Symbolic Execution  | 2023-03 ~ 2023-10 | SSL(Univ. of Hangyang)
 
 
 My Stats
