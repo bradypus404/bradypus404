@@ -24,8 +24,8 @@ Project Career
 | Malware Detection using LSTM      | 2022-01 ~ 2022-06 | Sangmyung Univ.          | Undergraduate Researcher|
 | Malware Classification using LSTM | 2021-09 ~ 2021-12 | Vunter (Sangmyung Univ.) | Project Leader          |
 | Building Malware Image Dataset    | 2021-05 ~ 2021-08 | CodeCure                 | Project Leader          |
-| K-Cyber Security Challenge        | 2020-03 ~ 2020-10 | 0x1719 (Sangmyung Univ.) | Developer               |
 | Opencv ROI based pedestrian<br>removal program | 2020-06 ~ 2020-12 | 영(상암호)화 | Developer               |
+| K-Cyber Security Challenge        | 2020-03 ~ 2020-10 | 0x1719 (Sangmyung Univ.) | Developer               |
 | Deception Security for Applying<br>Moving Target Defense | 2020-01 ~ 2020-11 | Sangmyung Univ. | Undergraduate Researcher |
 | Presentation of AI Fuzzing        | 2019-11 ~ 2019-12 | CodeCure                 | PPT Maker               |
 
