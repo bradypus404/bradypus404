@@ -14,8 +14,8 @@ Most Used Languages
 
 Project Career
 ------
-| Project                     | Length of Time    | Organization             | Position                |
-|---------------------------- |-------------------|--------------------------|-------------------------|
+| Project                           | Length of Time    | Organization             | Position                |
+|-----------------------------------|-------------------|--------------------------|-------------------------|
 | MalTotal-Search                   | 2023-10 ~ current | MalOpenCode-LLM          | Researcher              |
 | BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
 | Post Malware Analysis Blog        | 2022 ~ current    | Slow Analysis            | Researcher              |
@@ -25,7 +25,7 @@ Project Career
 | Malware Classification using LSTM | 2022-09 ~ 2022-12 | Vunter (Sangmyung Univ.) | Project Leader          |
 | Building Malware Image Dataset    | 2021-05 ~ 2021-08 | CodeCure                 | Project Leader          |
 | K-Cyber Security Challenge        | 2020-03 ~ 2020-10 | 0x1719 (Sangmyung Univ.) | Developer               |
-| Deception Security for Applying Moving Target Defense | 2020-01 ~ 2020-11 | Sangmyung Univ. | Undergraduate Researcher |
+| Deception Security for Applying<br>Moving Target Defense | 2020-01 ~ 2020-11 | Sangmyung Univ. | Undergraduate Researcher |
 
 
 My Stats
