@@ -15,7 +15,7 @@
 **Project Career**
 ------
 <center>
-| Project                           | Length of Time    | Organization             | Position                |
+  | Project                           | Length of Time    | Organization             | Position                |
 |-----------------------------------|-------------------|--------------------------|-------------------------|
 | MalTotal-Search                   | 2023-10 ~ current | MalOpenCode-LLM          | Researcher              |
 | BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
@@ -30,6 +30,7 @@
 | K-Cyber Security Challenge        | 2020-03 ~ 2020-10 | 0x1719 (Sangmyung Univ.) | Developer               |
 | Deception Security for Applying<br>Moving Target Defense | 2020-01 ~ 2020-11 | Sangmyung Univ. | Undergraduate Researcher |
 | Presentation of AI Fuzzing        | 2019-11 ~ 2019-12 | CodeCure                 | PPT Maker               |
+  
 </center>
 
 **My Sincerity**
