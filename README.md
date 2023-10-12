@@ -12,10 +12,11 @@
 ------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradypus404&layout=compact)](https://github.com/bradypus404/github-readme-stats)
 
+<center>
+
 **Project Career**
 ------
-<center>
-  | Project                           | Length of Time    | Organization             | Position                |
+| Project                           | Length of Time    | Organization             | Position                |
 |-----------------------------------|-------------------|--------------------------|-------------------------|
 | MalTotal-Search                   | 2023-10 ~ current | MalOpenCode-LLM          | Researcher              |
 | BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
