@@ -35,7 +35,8 @@ Thank you.
 ------
 | Project                           | Length of Time    | Organization             | Position                |
 |:---------------------------------:|:-----------------:|:------------------------:|:-----------------------:|
-| 5G Network Research               | 2024-12 ~ current | ICSR (Kookmin Univ.)     | Ph.D Program            |
+| 5G Network Security Research      | 2024-12 ~ current | ICSR (Kookmin Univ.)     | Ph.D Program            |
+| Malware AI Detection Research     | 2023-03 ~ 2025-02 | SSL (Hanyang Univ.)      | Master's Degree         | 
 | Malware Opcode & Graph Detection  | 2024-02 ~ 2024-12 | SSL (Hanyang Univ.)      | Master's Program        |
 | 2024 CodeCure CTF (IT THON)       | 2024-11.23 ~ 11.24| CodeCure                 | Problem Maker           |
 | MalTotal-Search                   | 2023-10 ~ 2023-12 | MalOpenCode-LLM          | Researcher              |
