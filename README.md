@@ -35,9 +35,12 @@ Thank you.
 ------
 | Project                           | Length of Time    | Organization             | Position                |
 |:---------------------------------:|:-----------------:|:------------------------:|:-----------------------:|
-| MalTotal-Search                   | 2023-10 ~ current | MalOpenCode-LLM          | Researcher              |
-| BoN - Loki Malware                | 2023-06 ~ current | Brust-of-Nature          | Project Manager         |
-| Malware Symbolic Execution        | 2023-03 ~ current | SSL (Hanyang Univ.)      | Master's Course         |
+| 5G Network Research               | 2024-12 ~ current | ICSR (Kookmin Univ.)     | Ph.D Program            |
+| Malware Opcode & Graph Detection  | 2024-02 ~ 2024-12 | SSL (Hanyang Univ.)      | Master's Program        |
+| 2024 CodeCure CTF (IT THON)       | 2024-11.23 ~ 11.24| CodeCure                 | Problem Maker           |
+| MalTotal-Search                   | 2023-10 ~ 2023-12 | MalOpenCode-LLM          | Researcher              |
+| BoN - Loki Malware                | 2023-06 ~ 2023-12 | Brust-of-Nature          | Project Manager         |
+| Malware Symbolic Execution        | 2023-03 ~ 2023-10 | SSL (Hanyang Univ.)      | Master's Program        |
 | Post Malware Analysis Blog        | 2022 ~ current    | Slow Analysis            | Researcher              |
 | 2022 CodeCure CTF                 | 2022-12.19 ~ 12.21| CodeCure                 | CTF Organizer           |
 | BC-IDS                            | 2022-03 ~ 2022-07 | Defender                 | Blockchain Developer    |
