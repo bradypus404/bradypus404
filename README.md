@@ -49,7 +49,7 @@ My research is **AI-based security**: I began with malware, moved to network int
 **Now working on**
 
 - Intrusion detection that combines semi-supervised learning with data augmentation
-- Security vulnerabilities in 5G networks
+- Security vulnerabilities in 5G networks — 5 CVEs disclosed in open-source 5G cores
 - Intrusion detection for V2X networks
 - A survey of security-specialized and small language models
 
@@ -83,6 +83,20 @@ My research is **AI-based security**: I began with malware, moved to network int
 
 **[D5] LSTM 딥러닝 알고리즘을 활용한 악성코드 API 분류 기술 연구**<br>
 **김진하**, 박원형 · *한국정보통신학회 종합학술대회 논문집*, 26(1), 259–261, 2022
+
+<br>
+
+## Vulnerability Disclosures
+
+Credited as **analyst** in GitHub security advisories for open-source 5G core networks, with ICSR as sponsor (2026.05).
+
+| CVE | Target | Vulnerability | Severity |
+|:--|:--|:--|:--:|
+| [CVE-2026-44473](https://github.com/advisories/GHSA-qfxw-v8qx-vj3v) | Ella Core | UE downlink redirection via forged PDUSessionResourceSetupResponse | ![High](https://img.shields.io/badge/High-D73A49?style=flat-square) |
+| [CVE-2026-44475](https://github.com/advisories/GHSA-pwfh-mqp3-pqwj) | Ella Core | UE security capability bypass on NGAP PathSwitchRequest | ![Moderate](https://img.shields.io/badge/Moderate-E36209?style=flat-square) |
+| [CVE-2026-42081](https://github.com/advisories/GHSA-77x9-rf64-92gv) | free5GC AMF | UE security capability bypass on NGAP PathSwitchRequest | ![Moderate](https://img.shields.io/badge/Moderate-E36209?style=flat-square) |
+| [CVE-2026-44474](https://github.com/advisories/GHSA-mc29-hmx6-856q) | Ella Core | Handover failures during concurrent Security Mode Command | ![Low](https://img.shields.io/badge/Low-DBAB09?style=flat-square) |
+| [CVE-2026-42082](https://github.com/advisories/GHSA-vrrx-58h3-prmh) | free5GC AMF | Missing concurrent NAS SMC validation during NGAP handover | ![Low](https://img.shields.io/badge/Low-DBAB09?style=flat-square) |
 
 <br>
 
@@ -152,7 +166,7 @@ National R&D projects funded by the Ministry of Science and ICT (MSIT), carried 
 
 ## Skills
 
-**Security** &nbsp; Malware analysis and reverse engineering · Symbolic execution · Network intrusion detection · Encrypted traffic analysis · 5G core and network slicing security · V2X security
+**Security** &nbsp; Malware analysis and reverse engineering · Symbolic execution · Network intrusion detection · Encrypted traffic analysis · 5G core and network slicing security · 5G protocol analysis (NGAP, NAS) · V2X security
 
 **AI** &nbsp; Deep learning (LSTM, BERT, autoencoders) · Semi-supervised learning · Data augmentation · Graph-based detection · Language models for security
 
