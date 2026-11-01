@@ -1,59 +1,64 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi%20I\'m%20foliv0ra&fontColor=8904B1&desc=Let\'s%20analyze%20Malware%20together\!&descAlign=60&descAlignY=90)
+# Jinha Kim
 
-<br>
+Ph.D. student, Intelligent Cyber Security Research Lab (ICSR), Kookmin University
 
-***Hi Guys!***
+I build AI-based intrusion detection for 5G and V2X networks.
+Before that, I worked on malware analysis and detection through my B.S. and M.S.
 
-I am a **Researcher**👨‍🎓  and **analyst**🕵️‍♂️  who is passionate about conducting engaging research and exploration focused on the detection and analysis of malware.<br>
+[Google Scholar](https://scholar.google.com/citations?user=a9SaKucAAAAJ) · [Hanyang SSL lab website](https://bradypus404.github.io) (mostly written by me)
 
-Delving deep into the world of **malware**☠, I take pleasure in understanding the intricacies and constantly learning to prepare and respond to the potential threats that exist in the real world. I am passionate about strengthening security and strive to discover and create innovative solutions. <br>
+## Research interests
 
-Welcome to my profile! I am thrilled to have you here. Let's share our knowledge about malware and work together to create innovative solutions to combat them.😎
+- Intrusion detection for 5G network slicing and V2X
+- Semi-supervised and lightweight models for malicious traffic detection
+- Language models for security
+- Malware analysis and detection
 
-Thank you.
+## Publications
 
-<br>
+**International journals**
 
-⚒   **Skills**   ⚒
-------
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-blue?style=flat-square&logo=IDA%20Pro&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-red?style=flat-square)
-![Basic AI](https://img.shields.io/badge/Basic_AI-FF4081?style=flat-square)
-![Server Development (Windows, Linux)](https://img.shields.io/badge/Server_Development_(Windows,_Linux)-blueviolet?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust&logoColor=#E57324)
+- **J. Kim** and H. Kim, "5G-SliceMatch: A Slice-Aware Semi-Supervised Learning Framework for Malicious Traffic Detection in 5G Networks," *Computer Modeling in Engineering & Sciences*, vol. 147, no. 3, 2026.
+- **J. Kim**, S. Na, and H. Kim, "Lightweight Multi-Class Autoencoder Model for Malicious Traffic Detection in Private 5G Networks," *Applied Sciences*, vol. 15, no. 22, 12242, 2025.
 
-<br>
+**Domestic journals and conferences**
 
-**Most Used Languages**
-------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradypus404&layout=donut&exclude_repo=bradypus404.github.io&)](https://github.com/bradypus404/github-readme-stats)
-<br>
+- **J. Kim**, D. S. Choi, and E. G. Im, "A Study on BERT and LSTM-based Ransomware family classification methods using User-defined functions," *Annual Conference of KIPS*, pp. 377–380, 2024.
+- **J. Kim** and E. G. Im, "A Study on Malware Detection based on Opcode and Call Graph," *Annual Conference of KIPS*, pp. 286–289, 2024.
+- 이동욱, **김진하**, 이지유, 서창진, "게임 메모리 변조 공격 방지를 위한 블록체인 기반 게임 해킹 탐지 시스템 개발," *전기학회논문지 P*, 71(3), pp. 184–189, 2022.
+- **김진하**, 이동욱, 이지유, 서창진, "블록체인 기반 게임 메모리 핵 침입 탐지 시스템," *대한전기학회 워크샵*, pp. 71–72, 2022.
+- **김진하**, 박원형, "LSTM 딥러닝 알고리즘을 활용한 악성코드 API 분류 기술 연구," *한국정보통신학회 종합학술대회 논문집*, 26(1), pp. 259–261, 2022.
 
-**Project Career**
-------
-| Project                           | Length of Time    | Organization             | Position                |
-|:---------------------------------:|:-----------------:|:------------------------:|:-----------------------:|
-| 5G Network Security Research      | 2024-12 ~ current | ICSR (Kookmin Univ.)     | Ph.D Program            |
-| Malware AI Detection Research     | 2023-03 ~ 2025-02 | SSL (Hanyang Univ.)      | Master's Degree         | 
-| Malware Opcode & Graph Detection  | 2024-02 ~ 2024-12 | SSL (Hanyang Univ.)      | Master's Program        |
-| 2024 CodeCure CTF (IT THON)       | 2024-11.23 ~ 11.24| CodeCure                 | Problem Maker           |
-| MalTotal-Search                   | 2023-10 ~ 2023-12 | MalOpenCode-LLM          | Researcher              |
-| BoN - Loki Malware                | 2023-06 ~ 2023-12 | Brust-of-Nature          | Project Manager         |
-| Malware Symbolic Execution        | 2023-03 ~ 2023-10 | SSL (Hanyang Univ.)      | Master's Program        |
-| Post Malware Analysis Blog        | 2022 ~ current    | Slow Analysis            | Researcher              |
-| 2022 CodeCure CTF                 | 2022-12.19 ~ 12.21| CodeCure                 | CTF Organizer           |
-| BC-IDS                            | 2022-03 ~ 2022-07 | Defender                 | Blockchain Developer    |
-| Malware Detection using LSTM      | 2022-01 ~ 2022-06 | Sangmyung Univ.          | Undergraduate Researcher|
-| Malware Classification using LSTM | 2021-09 ~ 2021-12 | Vunter (Sangmyung Univ.) | Project Leader          |
-| Building Malware Image Dataset    | 2021-05 ~ 2021-08 | CodeCure                 | Project Leader          |
-| Opencv ROI based pedestrian<br>removal program | 2020-06 ~ 2020-12 | 영(상암호)화 | Developer               |
-| K-Cyber Security Challenge        | 2020-03 ~ 2020-10 | 0x1719 (Sangmyung Univ.) | Developer               |
-| Deception Security for Applying<br>Moving Target Defense | 2020-01 ~ 2020-11 | Sangmyung Univ. | Undergraduate Researcher |
-| Presentation of AI Fuzzing        | 2019-11 ~ 2019-12 | CodeCure                 | PPT Maker               |
-<br>
+## Education
 
-**My Sincerity**
-------
-![bradypus404's github stats](https://github-readme-stats.vercel.app/api?username=bradypus404&show_icons=true&theme=radical)
+- **Ph.D.**, Kookmin University — ICSR, 2024.12 – present
+- **M.S.**, Hanyang University — SSL, 2023.03 – 2025.02
+- **B.S.**, Sangmyung University
+
+## Research and projects
+
+**Ph.D. — Kookmin University**
+- 5G network security: slice-aware semi-supervised detection and lightweight detection for private 5G (2024 – )
+- V2X intrusion detection (in progress)
+
+**M.S. — Hanyang University**
+- AI-based malware detection: symbolic execution (2023), opcode and call-graph detection (2024)
+- MalTotal-Search: LLM-based malware search (2023)
+- Burst-of-Nature: project manager of an educational ransomware study in Rust (2023)
+
+**B.S. — Sangmyung University**
+- Malware classification and detection with LSTM (2021 – 2022)
+- Malware image dataset construction, project lead (2021)
+- BC-IDS: blockchain-based detection of game memory hacking (2022)
+- Deception security for moving target defense, undergraduate researcher (2020)
+- ROI-based pedestrian removal with OpenCV (2020)
+
+## Activities
+
+- CodeCure CTF: organizer (2022), problem setter (2024, IT THON)
+- K-Cyber Security Challenge, team 0x1719 (2020)
+- *Slow Analysis*: malware analysis blog (2022 – )
+
+## Skills
+
+Malware analysis (IDA Pro) · Python · C++ · Rust · Machine learning for security · Server development (Windows, Linux)
