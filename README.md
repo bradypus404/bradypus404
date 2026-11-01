@@ -20,13 +20,26 @@ My research is **AI-based security**. I started with malware, moved to network i
 | | AI-based Malware Detection | AI-based IDS | LLM-based Intrusion Detection |
 |:--|:--|:--|:--|
 | **Stage** | Foundation · B.S.–M.S. | **Current · Ph.D.** | Next |
-| **Focus** | API sequences, malware images, opcode and call graphs, ransomware families | Semi-supervised and lightweight detection for 5G network slicing, private 5G and V2X | Security-specialized and lightweight language models for intrusion detection |
+| **Focus** | API sequences, malware images, opcode and call graphs, ransomware families | Semi-supervised learning and data augmentation, lightweight detection for 5G and V2X | Security-specialized and lightweight language models for intrusion detection |
 | **Output** | 3 domestic papers (2022, 2024) | CMES 2026 · Applied Sciences 2025 | Survey in progress |
 
 **Now working on**
-- Slice-aware semi-supervised detection of malicious traffic in 5G networks
+- Intrusion detection that combines semi-supervised learning with data augmentation
+- Security vulnerabilities in 5G networks
 - Intrusion detection for V2X networks
-- Survey of security-specialized and small language models
+- A survey of security-specialized and small language models
+
+---
+
+## Research Projects
+
+National R&D projects funded by the Ministry of Science and ICT (MSIT), carried out at ICSR.
+
+| Period | Project | My part |
+|:--|:--|:--|
+| 2024.06 – 2027.12 | **Security resilience for network-slicing-based services in integrated wired/wireless 5G private networks** · ETRI | Tool to detect and analyze intelligent attacks (e.g., DDoS) on the 5G core service-based architecture |
+| 2024.04 – 2027.12 | **5G private network security for integrated private and enterprise networks** · ETRI | Security models and guidelines for industry-specific 5G private networks |
+| 2023.04 – 2027.12 | **Network behavior-based security monitoring against encrypted cyber threats in ICT-converged public services and infrastructure** · KIST | Semi-supervised anomaly detection of encrypted attack traffic |
 
 ---
 
@@ -34,10 +47,10 @@ My research is **AI-based security**. I started with malware, moved to network i
 
 #### International journals
 
-| Year | Publication |
-|:--:|:--|
-| 2026 | **J. Kim**, H. Kim. "5G-SliceMatch: A Slice-Aware Semi-Supervised Learning Framework for Malicious Traffic Detection in 5G Networks." *Computer Modeling in Engineering & Sciences*, 147(3). |
-| 2025 | **J. Kim**, S. Na, H. Kim. "Lightweight Multi-Class Autoencoder Model for Malicious Traffic Detection in Private 5G Networks." *Applied Sciences*, 15(22), 12242. |
+| Year | Publication | Index |
+|:--:|:--|:--:|
+| 2026 | **J. Kim**, H. Kim. "5G-SliceMatch: A Slice-Aware Semi-Supervised Learning Framework for Malicious Traffic Detection in 5G Networks." *Computer Modeling in Engineering & Sciences*, 147(3). | **SCIE · Q1** |
+| 2025 | **J. Kim**, S. Na, H. Kim. "Lightweight Multi-Class Autoencoder Model for Malicious Traffic Detection in Private 5G Networks." *Applied Sciences*, 15(22), 12242. | **SCIE · Q2** |
 
 #### Domestic journals and conferences
 
@@ -57,7 +70,7 @@ My research is **AI-based security**. I started with malware, moved to network i
 |:--|:--|:--|
 | 2024.12 – present | Ph.D. | Kookmin University — Intelligent Cyber Security Research Lab (ICSR) |
 | 2023.03 – 2025.02 | M.S. | Hanyang University — SSL |
-| | B.S. | Sangmyung University |
+| 2019 – 2023 | B.S. | Sangmyung University |
 
 ---
 
@@ -91,9 +104,13 @@ My research is **AI-based security**. I started with malware, moved to network i
 
 ## Skills
 
+| | |
+|:--|:--|
+| **Security** | Malware analysis and reverse engineering · Symbolic execution · Network intrusion detection · Encrypted traffic analysis · 5G core and network slicing security · V2X security |
+| **AI** | Deep learning (LSTM, BERT, autoencoders) · Semi-supervised learning · Data augmentation · Graph-based detection · Language models for security |
+| **Engineering** | Blockchain · Server development (Windows, Linux) |
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-5C2D91?style=flat-square)
-
-Malware analysis · Network traffic analysis · Machine learning for security · Server development (Windows, Linux)
