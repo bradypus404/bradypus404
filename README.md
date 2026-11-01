@@ -106,7 +106,7 @@ National R&D projects funded by the Ministry of Science and ICT (MSIT), carried 
 
 ## Education
 
-| | | |
+| Degree | Institution | Period |
 |:--|:--|:--|
 | **Ph.D.** | Kookmin University · Intelligent Cyber Security Research Lab (ICSR) | 2024.12 – present |
 | **M.S.** | Hanyang University · SSL | 2023.03 – 2025.02 |
