@@ -92,11 +92,11 @@ Credited as **analyst** in GitHub security advisories for open-source 5G core ne
 
 | CVE | Target | Vulnerability | Severity |
 |:--|:--|:--|:--:|
-| [CVE-2026-44473](https://github.com/advisories/GHSA-qfxw-v8qx-vj3v) | Ella Core | UE downlink redirection via forged PDUSessionResourceSetupResponse | ![High](https://img.shields.io/badge/High-D73A49?style=flat-square) |
-| [CVE-2026-44475](https://github.com/advisories/GHSA-pwfh-mqp3-pqwj) | Ella Core | UE security capability bypass on NGAP PathSwitchRequest | ![Moderate](https://img.shields.io/badge/Moderate-E36209?style=flat-square) |
-| [CVE-2026-42081](https://github.com/advisories/GHSA-77x9-rf64-92gv) | free5GC AMF | UE security capability bypass on NGAP PathSwitchRequest | ![Moderate](https://img.shields.io/badge/Moderate-E36209?style=flat-square) |
-| [CVE-2026-44474](https://github.com/advisories/GHSA-mc29-hmx6-856q) | Ella Core | Handover failures during concurrent Security Mode Command | ![Low](https://img.shields.io/badge/Low-DBAB09?style=flat-square) |
-| [CVE-2026-42082](https://github.com/advisories/GHSA-vrrx-58h3-prmh) | free5GC AMF | Missing concurrent NAS SMC validation during NGAP handover | ![Low](https://img.shields.io/badge/Low-DBAB09?style=flat-square) |
+| [CVE‑2026‑44473](https://github.com/advisories/GHSA-qfxw-v8qx-vj3v) | Ella Core | UE downlink redirection via forged PDUSessionResourceSetupResponse | ![High](https://img.shields.io/badge/High-D73A49?style=flat-square) |
+| [CVE‑2026‑44475](https://github.com/advisories/GHSA-pwfh-mqp3-pqwj) | Ella Core | UE security capability bypass on NGAP PathSwitchRequest | ![Moderate](https://img.shields.io/badge/Moderate-E36209?style=flat-square) |
+| [CVE‑2026‑42081](https://github.com/advisories/GHSA-77x9-rf64-92gv) | free5GC AMF | UE security capability bypass on NGAP PathSwitchRequest | ![Moderate](https://img.shields.io/badge/Moderate-E36209?style=flat-square) |
+| [CVE‑2026‑44474](https://github.com/advisories/GHSA-mc29-hmx6-856q) | Ella Core | Handover failures during concurrent Security Mode Command | ![Low](https://img.shields.io/badge/Low-DBAB09?style=flat-square) |
+| [CVE‑2026‑42082](https://github.com/advisories/GHSA-vrrx-58h3-prmh) | free5GC AMF | Missing concurrent NAS SMC validation during NGAP handover | ![Low](https://img.shields.io/badge/Low-DBAB09?style=flat-square) |
 
 <br>
 
